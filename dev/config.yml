@@ -1,0 +1,56 @@
+baseURL: "https://yaboiwierdal.com/study_bot/dev/"
+title: Study Bot - Development
+theme: PaperMod
+
+params:
+  env: production
+  author: Alex Paschal
+
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  homeInfoParams:
+    Title: "Development"
+    Content: Documentation for the development of Study Bot, made in Discord.js. 
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/yaboiwierdal/study_bot/"
+    - name: discord
+      url: "https://discord.gg/aFuBKFRq"
+    - name: instagram
+      url: "https://instagram.com/apandas08/"
+    - name: email
+      url: "advancedpandas08@gmail.com"
+
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+  ShowReadingTime: false
+  ShowToc: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON
+
+menu:
+  main:
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: docs
+      name: Docs
+      url: "https://yaboiwierdal.com/study_bot/docs/"
+      weight: 30
+    - identifier: home
+      name: Home
+      url: /
+      weight: 40
