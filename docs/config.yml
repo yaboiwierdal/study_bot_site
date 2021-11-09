@@ -4,8 +4,11 @@ theme: PaperMod
 
 params:
   env: production
+  title: Study Bot - Docs
+  description: "Documentation for Study Bot, a Discord bot for the APandas Discord server, written in Discord.js."
   author: Alex Paschal
-  
+  keywords: [Study Bot, Discord bot, Discord.js, APandas, Documentation]
+
   defaultTheme: auto
   disableThemeToggle: false
 
@@ -31,8 +34,9 @@ params:
   ShowPostNavLinks: true
 
   editPost:
-    URL: "https://github.com/yaboiwierdal/study_bot/discussions"
+    URL: "https://github.com/yaboiwierdal/study_bot_site/tree/main/docs/content"
     Text: "Suggest Changes"
+    appendFilePath: true
 
 outputs:
   home:

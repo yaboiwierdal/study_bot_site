@@ -12,7 +12,8 @@
       <pubDate>Mon, 08 Nov 2021 10:17:24 -0500</pubDate>
       
       <guid>https://yaboiwierdal.com/study_bot/docs/errors/test/</guid>
-      <description>This is a test</description>
+      <description>This is a test
+print(&amp;#34;Hello World!&amp;#34;) </description>
     </item>
     
   </channel>

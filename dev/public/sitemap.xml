@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yaboiwierdal.com/study_bot/dev/errors/error_test/</loc>
+    <lastmod>2021-11-08T20:31:24-05:00</lastmod>
+  </url><url>
+    <loc>https://yaboiwierdal.com/study_bot/dev/errors/</loc>
+    <lastmod>2021-11-08T20:31:24-05:00</lastmod>
+  </url><url>
+    <loc>https://yaboiwierdal.com/study_bot/dev/</loc>
+    <lastmod>2021-11-08T20:31:24-05:00</lastmod>
+  </url><url>
     <loc>https://yaboiwierdal.com/study_bot/dev/archives/</loc>
   </url><url>
     <loc>https://yaboiwierdal.com/study_bot/dev/categories/</loc>
   </url><url>
     <loc>https://yaboiwierdal.com/study_bot/dev/search/</loc>
-  </url><url>
-    <loc>https://yaboiwierdal.com/study_bot/dev/</loc>
   </url><url>
     <loc>https://yaboiwierdal.com/study_bot/dev/tags/</loc>
   </url>

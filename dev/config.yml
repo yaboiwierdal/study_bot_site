@@ -30,11 +30,16 @@ params:
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
 
-  outputs:
-    home:
-      - HTML
-      - RSS
-      - JSON
+  editPost:
+    URL: "https://github.com/yaboiwierdal/study_bot_site/tree/main/dev/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 menu:
   main:
